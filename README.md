@@ -1,4 +1,4 @@
-# Some-Basic-functions-Drywetmidi
+# Some-Basic- Midi Functions-Drywetmidi
 Some basic functions using Drywetmidi - Melanchall  Library. 
 
 
